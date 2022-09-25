@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, my name is Maxim!
 
-<!--
-**mxm0312/mxm0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I'm a 4th year sudent of MIPT. Department of Theoretical and Applied Informatics 🤓\
+Developing mobile apps since 2019 📲\
+Have experience in developing client-server applications 📡\
+Worked with MVC, MVP, MVVM, VIPER architectures 😕\
+Understand the principles of S.O.L.I.D. 🤔
 
-Here are some ideas to get you started:
+### Coding in:
+- [x] Swift
+- [x] Objective-C
+- [x] C/C++
+- [x] Python
+- [x] JS
+- [ ] Assembler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxm0312)
+
